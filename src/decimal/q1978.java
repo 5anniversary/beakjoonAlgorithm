@@ -13,7 +13,7 @@ package decimal;
 import java.util.Scanner;
 
 public class q1978 {
-    public static void main(String[] args) {
+    public static void main(String[]  args) {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
         int[] decimal = new int[n];
