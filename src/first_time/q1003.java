@@ -1,7 +1,6 @@
 package first_time;
 //첫째 줄에 테스트 케이스의 개수 T가 주어진다.
 //각 테스트 케이스는 한 줄로 이루어져 있고, N이 주어진다. N은 40보다 작거나 같은 자연수 또는 0이다.
-
 import java.util.Scanner;
 
 public class q1003 {
