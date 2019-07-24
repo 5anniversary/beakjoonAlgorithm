@@ -11,7 +11,7 @@ public class q10828 {
     StringTokenizer st = new StringTokenizer(br.readLine());
     int n = Integer.parseInt(st.nextToken());
     //int n = sc.nextInt();
-    for(int i = 0 ; i < n ; i++){
+    for(i = 0 ; i < n ; i++){
       st = new StringTokenizer(br.readLine());
       String oi = st.nextToken();
       //String oi = sc.nextLine();
